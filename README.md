@@ -16,19 +16,21 @@ You are free to refuse our request for your personal information, with the under
 
 Your continued use of our app will be regarded as an acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information, feel free to contact us.
 
-Information Collection and Use
+Information Collection and Use:
+
 In Short:  We may collect information regarding your geo-location, mobile device, push notifications, when you use our apps.
 If you use our Apps, we may also collect the following information:
-Geo-Location Information. We may request access or permission to and track location-based information from your mobile device, either continuously or while you are using our mobile application, to provide location-based services. If you wish to change our access or permissions, you may do so in your device's settings.
+
+- Geo-Location Information. We may request access or permission to and track location-based information from your mobile device, either continuously or while you are using our mobile application, to provide location-based services. If you wish to change our access or permissions, you may do so in your device's settings.
 
 
-Mobile Device Access. We may request access or permission to certain features from your mobile device, including your mobile device's camera, storage, and other features. If you wish to change our access or permissions, you may do so in your device's settings.
+- Mobile Device Access. We may request access or permission to certain features from your mobile device, including your mobile device's camera, storage, and other features. If you wish to change our access or permissions, you may do so in your device's settings.
 
 
-Mobile Device Data. We may automatically collect device information (such as your mobile device ID, model and manufacturer), operating system, version information and IP address.
+- Mobile Device Data. We may automatically collect device information (such as your mobile device ID, model and manufacturer), operating system, version information and IP address.
 
 
-Push Notifications. We may request to send you push notifications regarding your account or the mobile application. If you wish to opt-out from receiving these types of communications, you may turn them off in your device's settings.
+- Push Notifications. We may request to send you push notifications regarding your account or the mobile application. If you wish to opt-out from receiving these types of communications, you may turn them off in your device's settings.
 
 For a higher experience, while using our service, we may require you to supply us with certain personally identifiable information. The data that we request are going to be retained by us and used as described during this privacy policy.
 
